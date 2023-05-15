@@ -1,0 +1,4 @@
+﻿  ConnectSQL.cpp
+C:\Users\ASUS\source\repos\ConnectSQL\ConnectSQL\ConnectSQL.cpp(97,20): warning C4101: 'ptrSqlVersion': unreferenced local variable
+C:\Users\ASUS\source\repos\ConnectSQL\ConnectSQL\ConnectSQL.cpp(96,17): warning C4101: 'sqlVersion': unreferenced local variable
+  ConnectSQL.vcxproj -> C:\Users\ASUS\source\repos\ConnectSQL\Debug\ConnectSQL.exe
